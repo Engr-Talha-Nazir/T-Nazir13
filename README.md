@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/talha-nazir-7b7790201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-nazir-7b7790201/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/talhanazir168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/talhanazir168" height="30" width="40" /> </a> <a href="https://twitter.com/talhach_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talhach_13" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/talha-nazir-7b7790201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/talha-nazir-7b7790201/" height="30" width="40" /></a>
+<a href="www.kaggle.com/talhanazir168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/talhanazir168" height="30" width="40" /> </a> <a href="https://twitter.com/talhach_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talhach_13" height="30" width="40" /></a>
 <a href="https://instagram.com/talha_chaudhary001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talha_chaudhary001" height="30" width="40" /></a>
 </p>
 
