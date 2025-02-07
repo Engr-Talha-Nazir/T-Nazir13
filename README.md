@@ -1,5 +1,5 @@
 ![logo](https://github.com/Talha-Nazir13/Talha-Nazir13/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image%20(3).png)
-<h1 align="center">Hi 👋, I'm Talha Nazir</h1>
+<h1 align="center">Hi 👋, I'm Shumaila Nazir</h1>
 <h3 align="center">A passionate Python developer with hands-on experience in Machine Learning /Data Science.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-nazir13&label=Profile%20views&color=0e75b6&style=flat" alt="talha-nazir13" /> </p>
