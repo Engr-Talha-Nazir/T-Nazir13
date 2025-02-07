@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-nazir13&label=Profile%20views&color=0e75b6&style=flat" alt="talha-nazir13" /> </p>
 
-- 📫 How to reach me **engr.talhanazir@gmail.com**
+- 📫 How to reach me **Shumailanazir82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
