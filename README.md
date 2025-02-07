@@ -1,4 +1,4 @@
-![logo](https://github.com/Talha-Nazir13/Talha-Nazir13/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image%20(3).png)
+![logo](https://github.com/Shumaila-Nazir/Shumaila-Nazir13/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image%20(4).png)
 <h1 align="center">Hi 👋, I'm Shumaila Nazir</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
